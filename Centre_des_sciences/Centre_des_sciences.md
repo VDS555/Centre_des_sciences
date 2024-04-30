@@ -42,6 +42,7 @@ Voici une liste des composants et des techniques utilisées pour la realisations
 ![media](media/cablage1.jpeg)
 ![media](media/ecouteurs.jpeg)
 ![media](media/ecran_tactile1.jpeg)
+![media](media/ecran_tactile3.jpeg)
 
 ## Éléments nécessaires à la mise en exposition
 voici une liste de tout les elements necessaires pour que l'exposition aille lieu ;
