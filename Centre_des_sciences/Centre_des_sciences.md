@@ -57,7 +57,7 @@ voici une liste de tout les elements necessaires pour que l'exposition aille lie
 - l'écran
 - logiciel pour montage vidéo
 
-
+![media](media/projecteur.jpeg)
 
 ## Expérience vécue
 Personellement, j'ai trouvé l'experience captivante en raison du grand nombre de dispositifs combinés dans un seul "méga dispositif". Les caméras ont été faciles a manipuler, durables et efficace. L'audio etait surprenablement bien. Le projecteur fesait bien son travail. Le tableau interractif était satisfesant a utiliser, cependant, j'ai trouvé que le logiciel de montage vidéo etait certes, abordable, mais pas asser. on a une grande selection de videos et d'effets, tous balancés sous notre nez comme si on savais déja comment utlisier lèinterface. Aussi, certaines fois quand on touchais lèecrans, celui-ci ne réagissait pas. Peut-etre un petit probleme, mais un probleme de toute facon. Sinon, la présentation du tout et le reste de l'utilisation était splendide.
