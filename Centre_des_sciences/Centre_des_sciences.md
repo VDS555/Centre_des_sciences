@@ -20,12 +20,13 @@ A la fois immersive a cause des ecouteurs, et a la fois interractice a cause de 
 ## Fonction du dispositif multimédia
 L'oeuvre agis comme tout le materiel necessaire pour modifier des photos. Tout ce qu'on a esoins, come des caméras, des cables, des ecouteurs, un ordinateur, un écran pour la modification et meme un ecran projeté. Ce que je veux dire, c'est que la fonction du dispositif, c'est non seulement familiariser les gens avec de tels outil, mais aussi de les pousser a vraiment essayer de s'impliquer sur un des dispositifs présents au Centre des sciences.
 
-
+![media](media/dispositif3.jpeg)
 
 ## Mise en espace
+L'oeuvre constiste de plusieurs parties, chacunes placées simplement. Nous avons les deux caméras devant nous, et a notre gauche, nous avons la projection du projecteur. A gauche, il y a tout simplement le projecteur. Juste devant la projection du projecteur, nous avons lèecran interractif. La facon de laquelle les dispositifs sont placés dans l'aménagement dédié a lèoeuvre est de sorte qu'ils forment un carré afin de faciliter l'interraction.
 
-
-
+![media](media/dispositif1.jpeg)
+![media](media/projecteur.jpeg)
 
 ## Composantes et techniques
 Voici une liste des composants et des techniques utilisées pour la realisations de cette oeuvre :
