@@ -4,7 +4,7 @@
 
 
 ## Introduction et informations
-Dans le cadre de notre cours d'oeuvres et expostions, notre groupe est allé voir l'exposition au Centre des sciences de Montréal, le 10 avril 2024. Des oeuvres en expositions, j'ai choisi la plus impressionante. Des caméras, un ordinateur, des dispositifs de montage vidéo et audio. Tout ces dispositifs combinés dans un seul.
+Dans le cadre de notre cours d'oeuvres et expostions, notre groupe est allé voir l'exposition au Centre des sciences de Montréal, le 10 avril 2024. Des oeuvres en expositions, j'ai choisi la plus impressionante. Des caméras, un ordinateur, des dispositifs de montage vidéo et audio. Tout ces dispositifs combinés dans un seul. Malheureuseent, les informations tel que le no  de lèartiste et de la firme, la date de réalisation et le titre de l'oeuvre n'étaient pas présentes dans sa proximité. 
 
 ## Description du dispositif
 L'oeuvre est faite de plusieurs dispositifs combinés. Premierement, on a l'oridnateur, qui luit agis comme un coeur. Ensuite, on a la camera qui sert a prendre des photos. Finalement, on a l'écran tactile et les casques qui servent a modifier les photos et a modifier l'audio. Les images modifiées sont projettées devant nous, sur un murs, par un projecteur.
@@ -48,8 +48,10 @@ voici une liste de tout les elements necessaires pour que l'exposition aille lie
 - projecteurs
 - écouteurs
 - cache fils
-- Instalation de la structure vetre ( elle se trouve tout autour de toutes les interfaces interractives comme les caméras et l'ecran. )
+- Instalation de la structure vetre ( elle se trouve tout autour de toutes les interfaces interractives comme les caméras, l'écran et l'ordinateur. )
 - les caméras
+- l'écran
+- logiciel pour montage vidéo
 
 
 
