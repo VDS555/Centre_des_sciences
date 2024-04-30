@@ -17,5 +17,7 @@
 ## Expérience vécue
 
 ## Ce qui vous a plu
+J'ai vraiment aimer le fait que ce soit une vraie camera
+
 
 ## Aspect que vous ne souhaiteriez pas retenir pour vos propres créations
