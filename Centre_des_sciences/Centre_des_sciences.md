@@ -38,7 +38,8 @@ Voici une liste des composants et des techniques utilisées pour la realisations
 - un tableau pour l'interface interactive
 - Un logiciel pour l'interface interactive
 
-![media](media/projectuer.jpeg)
+![media](media/projecteur.jpeg)
+![media](media/cablage1.jpeg)
 
 ## Éléments nécessaires à la mise en exposition
 voici une liste de tout les elements necessaires pour que l'exposition aille lieu ;
