@@ -3,8 +3,8 @@
 
 
 
-## Introduction et information
-Dans le cadre de notre cours d'oeuvres et expostions, notre groupe est allé voir l'exposition au Centre des sciences de Montréal, le 10 avril 2024.
+## Introduction et informations
+Dans le cadre de notre cours d'oeuvres et expostions, notre groupe est allé voir l'exposition au Centre des sciences de Montréal, le 10 avril 2024. Des oeuvres en expositions, j'ai choisi la plus impressionante. Des caméras, un ordinateur, des dispositifs de montage vidéo et audio. Tout ces dispositifs combinés dans un seul.
 
 ## Description du dispositif
 L'oeuvre est faite de plusieurs dispositifs combinés. Premierement, on a l'oridnateur, qui luit agis comme un coeur. Ensuite, on a la camera qui sert a prendre des photos. Finalement, on a l'écran tactile et les casques qui servent a modifier les photos et a modifier l'audio. Les images modifiées sont projettées devant nous, sur un murs, par un projecteur.
@@ -26,12 +26,30 @@ L'oeuvre agis comme tout le materiel necessaire pour modifier des photos. Tout c
 
 
 ## Composantes et techniques
+Voici une liste des composants et des techniques utilisées pour la realisations de cette oeuvre :
 
+- Toutes les pieces de l'ordinateur
+- Tout type de cables necessaires
+- deux caméras
+- deux micros
+- un projecteur
+- deux paires d'écouteurs
+- une surface pour projetter
+- un tableau pour l'interface interactive
+- Un logiciel pour l'interface interactive
 
 
 
 ## Éléments nécessaires à la mise en exposition
+voici une liste de tout les elements necessaires pour que l'exposition aille lieu ;
 
+- cables
+- crochets
+- projecteurs
+- écouteurs
+- cache fils
+- Instalation de la structure vetre ( elle se trouve tout autour de toutes les interfaces interractives comme les caméras et l'ecran. )
+- les caméras
 
 
 
